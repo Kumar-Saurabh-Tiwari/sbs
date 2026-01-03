@@ -36,7 +36,7 @@ A beautiful Netflix-like streaming application built with React Native.
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/netflix-app.git
+git clone https://github.com/Kumar-Saurabh-Tiwari/sbs.git
 cd netflix-app
 
 # Install dependencies

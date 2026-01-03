@@ -37,7 +37,7 @@
 ```
 GitHub Release Published
          ↓
-https://github.com/YOUR_USERNAME/netflix-app/releases
+https://github.com/Kumar-Saurabh-Tiwari/sbs/releases
          ↓
     ┌─────────────────────────────────┐
     │  Netflix App v1.0.0              │
@@ -92,7 +92,7 @@ git config --global user.email "your@email.com"
 #         Name it "netflix-app"
 
 # Step 3: Copy this repo URL from GitHub
-#         It looks like: https://github.com/YOUR_USERNAME/netflix-app.git
+#         It looks like: https://github.com/Kumar-Saurabh-Tiwari/sbs.git
 
 # Step 4: Run these commands
 cd "d:\Personal-Work\mobile-app\sbs"
@@ -167,9 +167,9 @@ Users will see in the app:
 |------|-----|
 | Create Account | https://github.com/signup |
 | New Repository | https://github.com/new |
-| Your Repo | https://github.com/YOUR_USERNAME/netflix-app |
-| Releases Page | https://github.com/YOUR_USERNAME/netflix-app/releases |
-| Direct Download | https://github.com/YOUR_USERNAME/netflix-app/releases/download/v1.0.0/netflix-app-v1.0.apk |
+| Your Repo | https://github.com/Kumar-Saurabh-Tiwari/sbs |
+| Releases Page | https://github.com/Kumar-Saurabh-Tiwari/sbs/releases |
+| Direct Download | https://github.com/Kumar-Saurabh-Tiwari/sbs/releases/download/v1.0.0/netflix-app-v1.0.apk |
 
 ---
 

@@ -24,7 +24,7 @@ git init
 git add .
 git commit -m "Netflix App - Ready for deployment"
 git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/netflix-app.git
+git remote add origin https://github.com/Kumar-Saurabh-Tiwari/sbs.git
 git push -u origin main
 ```
 
@@ -35,7 +35,7 @@ git push -u origin main
 
 ### **Step 2: Upload APK to GitHub Releases**
 
-1. Go to: `https://github.com/YOUR_USERNAME/netflix-app/releases/new`
+1. Go to: `https://github.com/Kumar-Saurabh-Tiwari/sbs/releases/new`
 2. Create release:
    - **Tag:** `v1.0.0`
    - **Title:** `Netflix App v1.0.0`
@@ -51,7 +51,7 @@ git push -u origin main
 Edit `public/index.html` and find this line:
 
 ```html
-href="https://github.com/YOUR_USERNAME/netflix-app/releases/download/v1.0.0/netflix-app-release.apk"
+href="https://github.com/Kumar-Saurabh-Tiwari/sbs/releases/download/v1.0.0/netflix-app-release.apk"
 ```
 
 Replace with your actual GitHub release download URL from Step 2.

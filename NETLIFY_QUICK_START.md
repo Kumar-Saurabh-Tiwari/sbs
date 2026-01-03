@@ -55,7 +55,7 @@ https://YOUR-SITE-NAME.netlify.app
 
 In `public/index.html`, change:
 ```html
-href="https://github.com/YOUR_USERNAME/netflix-app/releases/download/v1.0.0/netflix-app-release.apk"
+href="https://github.com/Kumar-Saurabh-Tiwari/sbs/releases/download/v1.0.0/netflix-app-release.apk"
 ```
 
 To your GitHub release download URL.

@@ -15,7 +15,7 @@ A beautiful Netflix-like streaming application built with [React Native](https:/
 
 ### Easiest Way: Download APK
 
-1. Go to [Releases](https://github.com/YOUR_USERNAME/netflix-app/releases)
+1. Go to [Releases](https://github.com/Kumar-Saurabh-Tiwari/sbs/releases)
 2. Download `netflix-app.apk`
 3. On Android phone:
    - Go to **Settings > Security > Enable "Unknown Sources"**
@@ -28,7 +28,7 @@ A beautiful Netflix-like streaming application built with [React Native](https:/
 
 ```sh
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/netflix-app.git
+git clone https://github.com/Kumar-Saurabh-Tiwari/sbs.git
 cd netflix-app
 
 # Install dependencies

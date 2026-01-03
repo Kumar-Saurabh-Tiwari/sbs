@@ -16,15 +16,15 @@ git init
 git add .
 git commit -m "Initial commit: Netflix-like streaming app"
 git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/netflix-app.git
+git remote add origin https://github.com/Kumar-Saurabh-Tiwari/sbs.git
 git push -u origin main
 ```
 
-Then go to: `https://github.com/YOUR_USERNAME/netflix-app`
+Then go to: `https://github.com/Kumar-Saurabh-Tiwari/sbs`
 
 ## 3️⃣ Create Release on GitHub (Manual)
 
-1. Visit: `https://github.com/YOUR_USERNAME/netflix-app/releases/new`
+1. Visit: `https://github.com/Kumar-Saurabh-Tiwari/sbs/releases/new`
 2. Create new release with:
    - **Tag**: `v1.0.0`
    - **Title**: `Netflix App v1.0.0`
@@ -95,9 +95,9 @@ Then create a new release with updated APK.
 
 | Item | URL |
 |------|-----|
-| **Your Repo** | `https://github.com/YOUR_USERNAME/netflix-app` |
-| **Releases Page** | `https://github.com/YOUR_USERNAME/netflix-app/releases` |
-| **Download Page** | `https://github.com/YOUR_USERNAME/netflix-app/releases/tag/v1.0.0` |
+| **Your Repo** | `https://github.com/Kumar-Saurabh-Tiwari/sbs` |
+| **Releases Page** | `https://github.com/Kumar-Saurabh-Tiwari/sbs/releases` |
+| **Download Page** | `https://github.com/Kumar-Saurabh-Tiwari/sbs/releases/tag/v1.0.0` |
 
 ---
 

@@ -80,7 +80,7 @@ See `QUICK_COMMANDS.md` for ready-to-copy PowerShell commands
 ## 📱 USER INSTALLATION
 
 Users will:
-1. Visit: https://github.com/YOUR_USERNAME/netflix-app/releases
+1. Visit: https://github.com/Kumar-Saurabh-Tiwari/sbs/releases
 2. Download: netflix-app-v1.0.apk
 3. On phone: Settings > Security > Enable "Unknown Sources"
 4. Tap APK file > Install > Open

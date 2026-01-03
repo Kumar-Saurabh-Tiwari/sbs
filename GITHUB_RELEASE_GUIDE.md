@@ -25,7 +25,7 @@ git init
 git add .
 git commit -m "Initial commit: Netflix-like streaming app"
 git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/netflix-app.git
+git remote add origin https://github.com/Kumar-Saurabh-Tiwari/sbs.git
 git push -u origin main
 ```
 
@@ -40,7 +40,7 @@ git push -u origin main
 
 ### Option A: Using GitHub Website (Easiest)
 
-1. Go to your repo: `https://github.com/YOUR_USERNAME/netflix-app`
+1. Go to your repo: `https://github.com/Kumar-Saurabh-Tiwari/sbs`
 2. Click **Releases** (right side)
 3. Click **Create a new release**
 4. **Tag version:** `v1.0.0`
@@ -78,7 +78,7 @@ gh release create v1.0.0 "d:\Personal-Work\mobile-app\netflix-app.apk" --title "
 
 Once released, users can download from:
 ```
-https://github.com/YOUR_USERNAME/netflix-app/releases
+https://github.com/Kumar-Saurabh-Tiwari/sbs/releases
 ```
 
 Anyone can click the APK and download it directly!
@@ -103,7 +103,7 @@ A beautiful Netflix-like streaming application built with React Native.
 
 ## Download
 
-Get the latest APK from [Releases](https://github.com/YOUR_USERNAME/netflix-app/releases)
+Get the latest APK from [Releases](https://github.com/Kumar-Saurabh-Tiwari/sbs/releases)
 
 ## Installation
 
@@ -119,7 +119,7 @@ Get the latest APK from [Releases](https://github.com/YOUR_USERNAME/netflix-app/
 ## Build from Source
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/netflix-app.git
+git clone https://github.com/Kumar-Saurabh-Tiwari/sbs.git
 cd netflix-app
 npm install
 npm run android

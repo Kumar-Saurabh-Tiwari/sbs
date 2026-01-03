@@ -41,7 +41,7 @@ git init
 git add .
 git commit -m "Initial commit: Netflix-like streaming app"
 git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/netflix-app.git
+git remote add origin https://github.com/Kumar-Saurabh-Tiwari/sbs.git
 git push -u origin main
 ```
 
@@ -56,7 +56,7 @@ git push -u origin main
 
 ### Option A: GitHub Website (Recommended)
 
-1. Go to: `https://github.com/YOUR_USERNAME/netflix-app`
+1. Go to: `https://github.com/Kumar-Saurabh-Tiwari/sbs`
 2. Click **Releases** (on the right side)
 3. Click **Create a new release**
 
@@ -109,12 +109,12 @@ gh release create v1.0.0 `
 Your app is now available at:
 
 ```
-https://github.com/YOUR_USERNAME/netflix-app
+https://github.com/Kumar-Saurabh-Tiwari/sbs
 ```
 
 Users can download from:
 ```
-https://github.com/YOUR_USERNAME/netflix-app/releases
+https://github.com/Kumar-Saurabh-Tiwari/sbs/releases
 ```
 
 ---

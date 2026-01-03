@@ -28,7 +28,7 @@ echo.
 echo 1. Go to https://github.com/new
 echo 2. Create repo named "netflix-app"
 echo 3. Copy the URL that looks like:
-echo    https://github.com/YOUR_USERNAME/netflix-app.git
+echo    https://github.com/Kumar-Saurabh-Tiwari/sbs.git
 echo.
 
 set /p GITHUB_REPO="Paste your GitHub repository URL: "

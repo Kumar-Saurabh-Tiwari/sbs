@@ -41,7 +41,7 @@
 3. Description: "Beautiful Netflix-like streaming app"
 4. Select "Public"
 5. Click "Create repository"
-6. Copy the HTTPS URL (looks like: `https://github.com/YOUR_USERNAME/netflix-app.git`)
+6. Copy the HTTPS URL (looks like: `https://github.com/Kumar-Saurabh-Tiwari/sbs.git`)
 
 ### Step 3: Follow These Guides
 1. Read: `START_HERE.md`
@@ -72,7 +72,7 @@
 ## 📱 AFTER DEPLOYMENT
 
 **Users will be able to:**
-1. Visit: `https://github.com/YOUR_USERNAME/netflix-app`
+1. Visit: `https://github.com/Kumar-Saurabh-Tiwari/sbs`
 2. Click "Releases"
 3. Download `netflix-app-v1.0.apk`
 4. Install on their Android phone
@@ -80,7 +80,7 @@
 
 **Share link:**
 ```
-https://github.com/YOUR_USERNAME/netflix-app/releases
+https://github.com/Kumar-Saurabh-Tiwari/sbs/releases
 ```
 
 ---
