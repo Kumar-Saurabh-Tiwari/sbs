@@ -1,21 +1,44 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+# Netflix App 🎬
 
-# Getting Started
+A beautiful Netflix-like streaming application built with [React Native](https://reactnative.dev).
 
-> **Note**: Make sure you have completed the [Set Up Your Environment](https://reactnative.dev/docs/set-up-your-environment) guide before proceeding.
+## Features ✨
 
-## Step 1: Start Metro
+- 🌙 **Dark Theme** - Netflix-style dark UI with red accents
+- 🔍 **Search Movies** - Find movies and shows by title
+- 📂 **Category Filter** - Browse by Sci-Fi, Drama, Thriller, Comedy, Action
+- ⭐ **Ratings** - View ratings for each title
+- 📱 **Fully Responsive** - Works on all Android devices (6.0+)
+- ⚡ **Fast Performance** - Optimized React Native app
 
-First, you will need to run **Metro**, the JavaScript build tool for React Native.
+## Download & Install
 
-To start the Metro dev server, run the following command from the root of your React Native project:
+### Easiest Way: Download APK
+
+1. Go to [Releases](https://github.com/YOUR_USERNAME/netflix-app/releases)
+2. Download `netflix-app.apk`
+3. On Android phone:
+   - Go to **Settings > Security > Enable "Unknown Sources"**
+   - Open the APK file and tap **Install**
+4. Launch the app! 🎉
+
+### Build from Source
+
+> **Note**: Make sure you have completed the [React Native setup](https://reactnative.dev/docs/set-up-your-environment).
 
 ```sh
-# Using npm
-npm start
+# Clone the repo
+git clone https://github.com/YOUR_USERNAME/netflix-app.git
+cd netflix-app
 
-# OR using Yarn
-yarn start
+# Install dependencies
+npm install
+
+# Run on Android device/emulator
+npm run android
+
+# Or start Metro bundler
+npm start
 ```
 
 ## Step 2: Build and run your app
