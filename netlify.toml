@@ -1,5 +1,6 @@
 # Netlify Configuration
 [build]
+  command = "echo 'Static site - no build needed'"
   publish = "public"
 
 [[redirects]]
